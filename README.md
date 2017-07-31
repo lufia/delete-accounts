@@ -13,5 +13,4 @@
 - eyecity
 - SQEXアカウント
 - Blizzard Battle.net
-- とらのあな
 - ニコ動
