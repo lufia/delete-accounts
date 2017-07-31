@@ -5,7 +5,6 @@
 
 - Pivotal Tracker
 - Giftee
-- iCloud(Apple ID)
 - Skype
 - Paypal
 - MyJCB
