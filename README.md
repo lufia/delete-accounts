@@ -27,6 +27,7 @@
 
 * [Apple ID/iCloud](icloud.md)
 * [本スキャン](honscan.md)
+* [Juniperアカウント](juniper.md)
 
 ## 可(上記以外の方法で削除可能)
 
