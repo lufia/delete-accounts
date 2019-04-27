@@ -22,6 +22,7 @@
 * [TECH PLAY](techplay.md)
 * [Atlassian Account](myatlassian.md)
 * [DLsite.com](dlsite.md)
+* [fabric](fabric.md)
 * [asana](asana.md)
 * [esa](esa.md)
 * [Figma](figma.md)
@@ -33,6 +34,7 @@
 * [Apple ID/iCloud](icloud.md)
 * [本スキャン](honscan.md)
 * [Juniperアカウント](juniper.md)
+* [twist](twist.md)
 
 ## 可(上記以外の方法で削除可能)
 
