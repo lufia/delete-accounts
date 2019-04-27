@@ -22,6 +22,11 @@
 * [TECH PLAY](techplay.md)
 * [Atlassian Account](myatlassian.md)
 * [DLsite.com](dlsite.md)
+* [asana](asana.md)
+* [esa](esa.md)
+* [Figma](figma.md)
+* [Zeplin](zeplin.md)
+* [DeployGate](deploygate.md)
 
 ## 良(問い合わせで削除可能)
 
