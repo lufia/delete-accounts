@@ -29,6 +29,7 @@
 * [Zeplin](zeplin.md)
 * [DeployGate](deploygate.md)
 * [TSUTAYA DISCAS](discas.md)
+* [SendGrid](sendgrid.md)
 
 ## 良(問い合わせで削除可能)
 
