@@ -30,6 +30,7 @@
 * [DeployGate](deploygate.md)
 * [TSUTAYA DISCAS](discas.md)
 * [SendGrid](sendgrid.md)
+* [mercari](mercari.md)
 
 ## 良(問い合わせで削除可能)
 
