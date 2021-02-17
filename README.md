@@ -38,6 +38,7 @@
 * [本スキャン](honscan.md)
 * [Juniperアカウント](juniper.md)
 * [twist](twist.md)
+* [AppVeyor](appveyor.md)
 
 ## 可(上記以外の方法で削除可能)
 
