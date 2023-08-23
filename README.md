@@ -24,6 +24,7 @@
 * [DLsite.com](dlsite.md)
 * [fabric](fabric.md)
 * [asana](asana.md)
+* [EX予約](expy.md)
 * [esa](esa.md)
 * [Figma](figma.md)
 * [Zeplin](zeplin.md)
